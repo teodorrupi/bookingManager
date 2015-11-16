@@ -1,0 +1,9 @@
+HTTrack3.48-21 launched on Mon, 16 Nov 2015 22:21:04 at http://dev.sunrisetheme.com/html-lyon/ http://dev.sunrisetheme.com/html-lyon/index2.html http://dev.sunrisetheme.com/html-lyon/index3.html
+(winhttrack http://dev.sunrisetheme.com/html-lyon/ http://dev.sunrisetheme.com/html-lyon/index2.html http://dev.sunrisetheme.com/html-lyon/index3.html -O "/Users/trupi/websites/bookingManager" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:33:40	Warning: 	Retry after error -4 (No data (connection closed)) at link dev.sunrisetheme.com/html-lyon/revolution/js/extensions/revolution.extension.layeranimation.min.js (from dev.sunrisetheme.com/html-lyon/)

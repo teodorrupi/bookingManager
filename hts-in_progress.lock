@@ -1,0 +1,7 @@
+Mirror in progress since Mon, 16 Nov 2015 22:21:04 .. please wait!
+winhttrack http://dev.sunrisetheme.com/html-lyon/ http://dev.sunrisetheme.com/html-lyon/index2.html http://dev.sunrisetheme.com/html-lyon/index3.html -O "/Users/trupi/websites/bookingManager" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=12600
+UID=501
+GID=501
+START=1447708864
